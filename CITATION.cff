@@ -1,0 +1,55 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Computational Workflows to Measure the Open Science
+  Practices in the Digital Humanities Domain
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Silvio
+    family-names: Peroni
+    email: silvio.peroni@unibo.it
+    affiliation: >-
+      Digital Humanities Advanced Research Centre
+      (/DH.arc),Department of Classical Philology and
+      Italian Studies, University of Bologna, Bologna, Italy
+    orcid: 'https://orcid.org/0000-0003-0530-4305'
+repository-code: 'https://github.com/essepuntato/dh-open'
+abstract: >-
+  Open Science has become a central framework for promoting
+  transparency, accessibility, and inclusiveness in
+  scholarly research. While the Digital Humanities (DH)
+  community has long embraced openness in terms of research
+  outputs, less attention seems to have been paid to the
+  openness of the methodological and evaluative processes
+  underlying knowledge production. This software has been
+  developed to gather and analyse the data of an exploratory
+  study that investigates the current state of openness in
+  DH research practices, focusing specifically on research
+  data management documentation and peer review processes.
+  In particular, this study addresses two research
+  questions: (1) to what extent DH publications that
+  describe data explicitly reference external documentation
+  detailing data creation and management processes; and (2)
+  how widely open peer review practices are adopted across
+  DH conferences and journals. The results revealed a
+  limited adoption of open methodological practices. Only a
+  small fraction of the analysed articles provided explicit
+  and reusable documentation of data creation workflows,
+  while no references to data management plans or formal
+  research data management documentation were found. An even
+  more critical picture emerges from the analysis of peer
+  review practices: the vast majority of DH venues continue
+  to rely on traditional single- or double-blind review
+  models, with open peer review practices being adopted only
+  in a few isolated cases.
+keywords:
+  - Digital Humanities
+  - Open Science Practices
+  - Open Peer Review
+  - Research Data Management
+license: ISC
