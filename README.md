@@ -18,6 +18,6 @@ For gathering and analysing the data to answer these two RQs, we have developed 
 
 The data produced by executing these workflows are available at the following document:
 
-Peroni, S. (2026). Full-text data papers from JOHD and call for papers from DH venues (Version 1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19758167
+> Peroni, S. (2026). Full-text data papers from JOHD and call for papers from DH venues (Version 1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19758167
 
 For any question or doubt, do not hesitate to contact the author at `silvio` _{dot}_ `peroni` _{at}_ `unibo` _{dot}_ `it`.
